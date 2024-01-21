@@ -15,7 +15,7 @@ $padding: rem-calc(20);
 
         background: var(--branco);
         text-decoration: none;
-        color: #000;
+        color: var(--font-primary);
         padding: $padding;
         margin-bottom: rem-calc(10);
         border-radius: rem-calc(10);
